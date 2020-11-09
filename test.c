@@ -5,5 +5,5 @@ int main(){
     {
         printf("error\n");
     }
-    printf("Nguyen Trung Hau\n", );
+    printf("Tran Manh Hung\n");
 }
